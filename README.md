@@ -6,18 +6,12 @@ Frontend Engineer focused on building products with extra attention to details. 
 
 ## Skills
 
-- Next.js
-- TypeScript
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Redux
-- Tailwind CSS
-- Git
-- MUI
-- HTML Email Developer
+- Next.js       - TypeScript
+- JavaScript    - React.js
+- Node.js       - Express.js
+- MongoDB       - Redux
+- Tailwind CSS  - Git
+- MUI           - HTML Email Developer
 
 ## Projects
 
@@ -57,6 +51,6 @@ A protocol for autonomous task creation, prioritization, validation, and incenti
 ## Contact Me
 
 - LinkedIn: [Jephthah Mbah](https://www.linkedin.com/in/jephthah-mbah/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Personal Website: [Your Website/Blog](https://www.yourwebsite.com)
+- Email: [jephthah.mbah@outlook.com](mailto:jephthah.mbah@outlook.com)
+- Personal Website: [Your Website/Blog](https://jephthah-cv.vercel.app/)
 
